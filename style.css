@@ -10,7 +10,7 @@ body {
 }
 
 #banner {
-    border: 5px solid #222;
+    background: #F9FFFE;
     width: 200px;
     height: 400px;
 }
