@@ -1,5 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("stone_texture.png");
+    margin: 10px;
+}
+
 #banner {
-    border: 1px solid black;
+    border: 5px solid #222;
     width: 200px;
     height: 400px;
 }
